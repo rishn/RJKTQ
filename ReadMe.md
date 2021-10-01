@@ -22,4 +22,5 @@ wishes and any update in the player’s performance can be seen immediately.
 Requirements
 1. Python 3
 2. Python module tabulate
+3. All files from the RJKTQ folder
 ```
