@@ -1,5 +1,5 @@
-# RJKTQ™
-## RJK'S Trivia Quiz Game ™
+# RJKTQ
+## RJK'S Trivia Quiz Game 
 
 The project is a trivia quiz game that consists of matches where random questions are asked related to current affairs and answers can be input by the user/player as 
 keywords related to the answer. It is developed using *Python 3.x* and the questions, answers, information about every player who has played the game and every admin 
