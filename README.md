@@ -1,4 +1,4 @@
-# RJKTQ - RJK's Trivia Quiz Game
+# RJKTQ - RJK's Trivia Quest
 
 <p align="center">
   <img src="https://github.com/rishn/RJKTQ/blob/main/RJKTQ/Banner.png?raw=true" alt="Banner" />
@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-1. [RJKTQ - RJK's Trivia Quiz Game](#rjktq---rjks-trivia-quiz-game)
+1. [RJKTQ - RJK's Trivia Quest](#rjktq---rjks-trivia-quest)
 2. [Features](#features)
 3. [File Storage Structure](#file-storage-structure)
 4. [Requirements](#requirements)
