@@ -1,7 +1,7 @@
 # RJKTQ - RJK's Trivia Quiz Game
 
 <p align="center">
-  <img src="https://github.com/rishn/RJKTQ/blob/master/RJKTQ/Banner.png?raw=true" alt="Banner" />
+  <img src="https://github.com/rishn/RJKTQ/blob/main/RJKTQ/Banner.png?raw=true" alt="Banner" />
 </p>
 
 **RJKTQ** is an interactive trivia quiz game developed in **Python 3.x**. The game is designed to challenge players with a variety of questions related to current affairs. Players can enter keywords as answers and track their performance through an integrated ranking system. The game also features administrator functionality to monitor and manage players, questions, and game data.
